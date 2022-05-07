@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=myfifa
+POSTGRES_USER=nymcWEmkmvDtUcfLongRglGsgHimlWeY
+POSTGRES_PASSWORD=9t6U4kxpYJpJFlCCmhsUr5l6AgfP1bzRSWtoVxzKnkOTLbqMXVVudmJwMdehFG3U
